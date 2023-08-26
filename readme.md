@@ -1,11 +1,19 @@
 
-# PIPP project.
+# Part of PIPP project, Using social media data to show the indicating power of psychological transformation on real-world events
 
+Austin data preparation, description, and multidimensional scaling. Using social media data to show the indicating power of psychological transformation on real-world events.
 
-We get covid-related Twitter posts in Austin. Because we have 2TB of data, we process it in Google Drive.
+We get COVID-related Twitter posts in Austin. Because we have 2TB of data, we process it in Google Drive.
 
 ### DataPre
 The process of getting Covid-related Twitter posts in Austin, from 01/2020 to 11/2022.
+
+![number of tweet](number of tweet.png)
+
+
+
+![tweet plot](tweet plot.png)
+
 
 ### LIWC Summary
 
@@ -26,3 +34,8 @@ Compared to truth-tellers, liars showed lower cognitive complexity, used fewer s
 emotional tone
 the higher the number, the more positive the tone. Numbers below 50 suggest a more negative emotional tone.
 <https://journals.sagepub.com/doi/10.1111/j.0956-7976.2004.00741.x>
+
+
+### multidimensional scaling
+
+MDS can help us visualize the liwc category. I am working on a better visualization.
