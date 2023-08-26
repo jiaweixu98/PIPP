@@ -12,7 +12,7 @@ The process of getting Covid-related Twitter posts in Austin, from 01/2020 to 11
 
 
 
-![tweet plot](tweet%20plot.png.png)
+![tweet plot](tweet%20plot.png)
 
 
 ### LIWC Summary
