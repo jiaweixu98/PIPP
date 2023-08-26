@@ -8,11 +8,11 @@ We get COVID-related Twitter posts in Austin. Because we have 2TB of data, we pr
 ### DataPre
 The process of getting Covid-related Twitter posts in Austin, from 01/2020 to 11/2022.
 
-![number of tweet](number of tweet.png)
+![number of tweet](number%20of%20tweet.png)
 
 
 
-![tweet plot](tweet plot.png)
+![tweet plot](tweet%20plot.png.png)
 
 
 ### LIWC Summary
