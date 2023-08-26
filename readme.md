@@ -21,7 +21,7 @@ Summary words: See UNDERSTANDING THE LIWC SUMMARY MEASURES for details:
  <https://www.liwc.app/help/liwc#Summary-Measures>
 
 analytical thinking: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115844>
-These indicators are obtained by weighting，PCA。CDI = 30 + article + preposition - personal pronoun - impersonal pronoun – auxiliary verb – conjunction – adverb – negation
+These indicators are obtained by weighting, PCA. CDI = 30 + article + preposition - personal pronoun - impersonal pronoun – auxiliary verb – conjunction – adverb – negation
 the degree to which people use words that suggest formal, logical, and hierarchical thinking patterns.
 
 Clout: https://journals.sagepub.com/doi/10.1177/0261927X13502654>
